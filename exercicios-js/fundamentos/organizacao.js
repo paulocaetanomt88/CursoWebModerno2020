@@ -1,0 +1,1 @@
+console.log('Sentenca de código')
